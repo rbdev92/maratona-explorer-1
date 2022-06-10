@@ -49,3 +49,5 @@ const fazerPergunta = () => {
     btnPerguntar.removeAttribute('disabled')
   }, 3000)
 }
+
+fazerPergunta()
